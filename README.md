@@ -34,13 +34,6 @@ I'm a passionate student eager to learn and grow in the field of programming. Sk
 
 <br/>
 
-<div align="left">
-    <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical: Python, PHP, HTML, JavaScript, Java+Kotlin (Android Development)</h3>
-        <h3>- 📗Soft Skills: Project Management, Effective Communication, Team Collaboration, Time Management</h3>
-        <h3>- 📙Additional Tools: GitHub, MySQL, Visual Studio Code</h3>
-</div>
-
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
 ![Ashool Lakhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashoollakhani&show_icons=true&theme=radical)
