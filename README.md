@@ -36,5 +36,4 @@ I'm a passionate student eager to learn and grow in the field of programming. Sk
 
 <h2 align="left">📊 GitHub Stats 📊</h2>
 
-![Ashool Lakhani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashoollakhani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashoollakhani&show_icons=true&theme=radical)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ashoollakhani&theme=dark)
